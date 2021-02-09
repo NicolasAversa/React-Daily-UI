@@ -1,0 +1,15 @@
+.LoginForm {
+  padding: 1.25rem;
+  background-color: #3e363f;
+}
+
+.LoginFormButton {
+  border-radius: 0.25rem;
+  text-transform: uppercase;
+  text-align: start;
+  font-size: 13px;
+  border: 0;
+  color: #ffffff;
+  background-color: #dd403a;
+  height: auto;
+}
