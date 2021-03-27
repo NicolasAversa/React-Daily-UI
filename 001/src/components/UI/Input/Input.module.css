@@ -1,0 +1,30 @@
+.InputWrapper {
+  width: 100%;
+  border-bottom: 1px solid var(--blue);
+}
+
+.InputWrapper:hover {
+  border-bottom: 1px solid green;
+}
+
+.InputLabel {
+  color: #fffce8;
+  background: transparent;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.Input {
+  width: 100%;
+  color: #fffce8;
+  outline: none;
+  border: none;
+  background: transparent;
+  font-size: 0.75rem;
+  font-weight: 300;
+}
+
+.Decorators {
+  padding: 3rem;
+  background-color: darkgray;
+}
